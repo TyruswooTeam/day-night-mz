@@ -153,7 +153,7 @@ McKathlin.DayNight = McKathlin.DayNight || {};
  *     // Number of minutes since midnight of the current day.
  * 
  * ============================================================================
- * For more help using the Day-Night Cycle plugin, see Tyruswoo.com.
+ * Visit Tyruswoo.com to ask for help, donate, or browse more of our plugins.
  * ============================================================================
  * Version History:
  *
